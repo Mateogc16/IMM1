@@ -54,7 +54,7 @@ st.markdown("""
 
 # Título e imagen decorativa
 st.title("📜 Conversión de Texto a Voz - Grimorio Parlante")
-image = Image.open('gato_raton.png')  # Puedes reemplazar esto por una imagen más acorde, como un grimorio
+image = Image.open('DRAGÓN BACANO.jpg')  # Puedes reemplazar esto por una imagen más acorde, como un grimorio
 st.image(image, width=350)
 
 with st.sidebar:
